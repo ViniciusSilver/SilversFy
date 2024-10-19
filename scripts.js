@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {name: 'Beatles', image: './img/artista-beatles.jpg'},
         {name: 'Charlie Brown Jr.', image: './img/artista-cbjr.jpg'},
         {name: 'The Strokes', image: './img/artista-strokes.jpg'},
-        {name: 'The Last Shadow Puppets', image: './img/artista-tlsp.jpg'},
+        {name: 'The Last Shadow Puppets', image: './img/artista-tlspa.jpg'},
         {name: 'Arctic Monkeys', image: './img/artista-arctic.jpg'},
     ];
     const albumsData = [
